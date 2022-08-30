@@ -1,0 +1,80 @@
+body {
+    background: green;
+
+}
+
+.bigt
+{
+    color: white;
+    font-size: 50px;
+}
+
+.smallt
+{
+    color: white;
+    font-size: small;
+    display: inline-block;
+}
+
+::placeholder{
+color: white;
+opacity: 80%;
+}
+
+
+#bt {
+    background-color: white;
+    width: 300px;
+    border-radius: 40px;
+    margin: 5px;
+    padding: 20px;
+}
+
+#bt:hover
+{
+    background-color: gold;
+    
+}
+
+.div0{
+    display: inline-block;
+    float: left;
+    background-color: deeppink;
+    height: 70em;
+    width: 30em;
+}
+.div1{
+    
+    display: inline-block;  
+    float: right;
+}
+
+
+.ip {
+    border: none;
+    background-color: transparent;
+
+    border-bottom-style: solid;
+    border-bottom-width: 2px ;
+
+    border-bottom-color: wheat;
+    margin: 5px;
+}
+
+#terms {
+    font-size: 50px;
+    color: white; 
+}
+
+
+#sp{
+    margin-left: 20px;
+}
+
+.tb{
+    border: 1px;
+    color: bisque;
+    border-color: red;
+    border
+
+}
